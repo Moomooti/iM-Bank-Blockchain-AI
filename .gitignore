@@ -9,13 +9,9 @@ models/
 FinHOLLY/models/
 finholly_ct2_int8/
 finholly_merged_hf/
+FinHOLLY/offline_packages/
 
-# 대용량 원본/파생 데이터 (재생성 가능, 100MB 제한 초과 또는 근접)
-data/myanmar_adapter/opus_ko_my.csv
-data/myanmar_adapter/my_adapter_train.csv
-data/myanmar_adapter/my_adapter_train_with_source.csv
-
-# 비밀키
+# 비밀키 / 로그
 .env
 *.log
 
